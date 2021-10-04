@@ -13,7 +13,7 @@ Hoy en dia existen multitud de negocios donde es necesario una llamada telefóni
 
 La solución propuesta por tanto es una aplicación que permita a los usuarios planificar sus propias citas o rendezvous en el negocio que deseen. Los usuarios solo necesitarían entrar en el sitio del negocio deseado dentro de la aplicación y fijar una cita con un click.
 
-Además del beneficio del ahorro de tiempo, los dueños de negocios verán estadísticas del numero de reservas que tienen para poder ver su carga de trabajo y que puedan organizarse. Por otro lado, a los usuarios que reservan en los negocios, se les darán recomendaciones personalizadas basadas en los lugares donde ya hayan reservado. 
+Además del beneficio del ahorro de tiempo, los dueños de negocios verán estadísticas del numero de reservas que tienen para poder ver su carga de trabajo y organizarse. Por otro lado, a los usuarios que reservan en los negocios, se les darán recomendaciones personalizadas basadas en los lugares donde ya hayan reservado. 
 
 ## Lógica de negocio
 
