@@ -11,7 +11,11 @@ La solución propuesta por tanto es una aplicación que permita a los usuarios p
 
 Además del beneficio del ahorro de tiempo, los dueños de negocios verán estadísticas del numero de reservas que tienen para poder ver su carga de trabajo y que puedan organizarse. Por otro lado, a los usuarios que reservan en los negocios, se les darán recomendaciones personalizadas basadas en los lugares donde ya hayan reservado. 
 
+## Lógica de negocio
+
+Puede acceder a un documento explicativo de la [lógica de negocio intencionada para la aplicación](./docs/logica-negocio.md) 
+
 ## Documentación de configuración de git
 
-Se puede consultar la documentación adicional del hito 0, correspondiente a la configuración de git y github ![aqui](./docs/configuracion-entorno-git.md)
+Se puede consultar la documentación adicional del hito 0, correspondiente a la configuración de git y github [aqui](./docs/configuracion-entorno-git.md)
 
