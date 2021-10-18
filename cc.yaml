@@ -1,0 +1,5 @@
+entidad:
+  - src/negocio.ts
+  - src/reserva.ts
+  - src/usuario.ts
+  - src/recomendacion.ts
