@@ -1,10 +1,10 @@
 ## Historias de usuario y user journeys
 
-Con el objetivo de centrar la atención en el usuario y definir objetivos, se han realizado una serie de historias de usuario.
+Con el objetivo de centrar la atención en el usuario y definir objetivos, se han realizado una serie de historias de usuario. Una vez creadas las historias de usuario, se han asociado issues a las mismas. Se presenta una descripción de las historias de usuario y de sus issues asociados.
 
 ## [[US1]: Como dueño de un negocio, quiero poder registrar mi negocio en la app para que otros usuarios puedan hacer reservas en él](https://github.com/ajalba/rendezvous/issues/9)
 
-Esta historia de usuario representa el elemento más básico de la aplicación, negocios donde los usuarios puedan planear sus citas o "rendezvous", a ella se asocian los siguientes issues.
+Asignada al [hito 1: Reservas en negocios por parte de los usuarios](https://github.com/ajalba/rendezvous/milestone/1), esta historia de usuario representa el elemento más básico de la aplicación, negocios donde los usuarios puedan planear sus citas o "rendezvous", a ella se asocian los siguientes issues.
 
 [Definir el esquema que representa un Negocio](https://github.com/ajalba/rendezvous/issues/17)
 
@@ -14,7 +14,7 @@ Esta historia de usuario representa el elemento más básico de la aplicación, 
 
 ## [[US2] Como usuario, debo poder buscar negocios en la aplicación para realizar mi reserva en ellos](https://github.com/ajalba/rendezvous/issues/8)
 
-En esta historia de usuario se tiene el rol de usuario de aplicación, que será el más común en número y se representa la funcionalidad básica de la aplicación. Para implementar esta historia se han planificado los siguiente issues:
+Se continua trabajando sobre el [hito 1: Reservas en negocios por parte de los usuarios](https://github.com/ajalba/rendezvous/milestone/1) y en esta historia de usuario se tiene el rol de usuario de aplicación, que será el más común en número y se representa la funcionalidad básica de la aplicación. Para implementar esta historia se han planificado los siguiente issues:
 
 [Crear el esquema de Usuario en la base de datos](https://github.com/ajalba/rendezvous/issues/22)
 
@@ -30,7 +30,7 @@ En esta historia de usuario se tiene el rol de usuario de aplicación, que será
 
 ## [[US3] Como usuario, debo poder buscar el mejor negocio de cierto tipo según mis intereses para reservar en él](https://github.com/ajalba/rendezvous/issues/10)
 
-Esta historia de usuario está enfocada en mejorar la experiencia de usuario con la aplicación y ofrecerle la oportunidad de buscar un negocio que sea adecuado conforme a sus intereses. Tiene asignados los issues:
+Como trabajo relacionado al [hito 2: Búsqueda especializada por criterios](https://github.com/ajalba/rendezvous/milestone/2) esta historia de usuario está enfocada en mejorar la experiencia de usuario con la aplicación y ofrecerle la oportunidad de buscar un negocio que sea adecuado conforme a sus intereses. Tiene asignados los issues:
 
 [Diseñar algoritmo que realice una busqueda por criterios para servir negocios a un usuario](https://github.com/ajalba/rendezvous/issues/25)
 
@@ -40,7 +40,7 @@ Esta historia de usuario está enfocada en mejorar la experiencia de usuario con
 
 ## [[US4] Como administrador, quiero ofrecer al usuario recomendaciones personalizadas cuando ingrese en la aplicación para poder hacer que el usuario pase más tiempo en ella](https://github.com/ajalba/rendezvous/issues/11)
 
-En esta historia de usuario se centra la atención en que el usuario pase más tiempo dentro de la aplicación ya que recibirá ideas de negocios que le pueden interesar y así se fomenta que el usuario vuelva a la aplicación. Los issues asignados son:
+En relación al [hito 3: Recomendaciones personalizadas al entrar en la aplicación](https://github.com/ajalba/rendezvous/milestone/3), en esta historia de usuario se centra la atención en que el usuario pase más tiempo dentro de la aplicación ya que recibirá ideas de negocios que le pueden interesar y así se fomenta que el usuario vuelva a la aplicación. Los issues asignados son:
 
 [Realizar clustering sobre los usuarios basado en sus en negocios visitados](https://github.com/ajalba/rendezvous/issues/28)
 
@@ -50,7 +50,7 @@ En esta historia de usuario se centra la atención en que el usuario pase más t
 
 ## [[US5] Como dueño de un negocio, quiero poder pagar para promocionarlo y que aparezca en más búsquedas](https://github.com/ajalba/rendezvous/issues/12)
 
-Esta vez se propone un servicio que el dueño de un negocio pueda emplear para así hacer que su negocio aparezca en más búsquedas de forma temporal. Para este objetivo se han asignado los issues:
+En el [hito 4: Pago por parte de los negocios para aparecer más veces en la app](https://github.com/ajalba/rendezvous/milestone/4) esta vez se propone un servicio que el dueño de un negocio pueda emplear para así hacer que su negocio aparezca en más búsquedas de forma temporal. Para este objetivo se han asignado los issues:
 
 [Diseñar botón(vista y backend) para realizar la accion de pago por parte del dueño de un negocio](https://github.com/ajalba/rendezvous/issues/31)
 
